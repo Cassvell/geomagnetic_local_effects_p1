@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.29)  7 DEC 2023 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.29)  11 DEC 2023 12:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,58 +657,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen263
 \Gm@layoutvoffset=\dimen264
 \Gm@dimlist=\toks33
-)) (./cas-dc.cls
-
-LaTeX Warning: You have requested package `',
-               but the package provides `cas-dc'.
-
-Package: cas-dc 2021/05/11, 2.3: Formatting class for CAS double column article
-s
-\@bls=\dimen265
-
-! LaTeX Error: Two \LoadClass commands.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \LoadClass
-               {article}
-You may only use one \LoadClass in a class file
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \LoadClass{a
-                 rticle}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+stix on input line 1
-12.
-
-(/usr/share/texlive/texmf-dist/tex/latex/stix/t1stix.fd
-File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 ))
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.158 
-      
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip70
 \bibsep=\skip71
@@ -718,54 +668,60 @@ LaTeX Info: Redefining \cite on input line 694.
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
 
-Excluding comment 'comment') (./main.aux)
+Excluding comment 'comment')
+LaTeX Font Info:    Trying to load font information for T1+stix on input line 2
+9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/stix/t1stix.fd
+File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 29.
 LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
-50.
+29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls1stix.fd
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 29.
 LaTeX Font Info:    Trying to load font information for LS2+stix on input line 
-50.
+29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls2stix.fd
 File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    ... okay on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count332
-\scratchdimen=\dimen266
+\scratchdimen=\dimen265
 \scratchbox=\box65
 \nofMPsegments=\count333
 \nofMParguments=\count334
 \everyMPshowfont=\toks34
 \MPscratchCnt=\count335
-\MPscratchDim=\dimen267
+\MPscratchDim=\dimen266
 \MPnumerator=\count336
 \makeMPintoPDFobject=\count337
 \everyMPtoPDFconversion=\toks35
@@ -778,16 +734,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Command `\dddot' is already robust on input line 50.
-LaTeX Info: Command `\ddddot' is already robust on input line 50.
-Package hyperref Info: Link coloring ON on input line 50.
+LaTeX Info: Command `\dddot' is already robust on input line 29.
+LaTeX Info: Command `\ddddot' is already robust on input line 29.
+Package hyperref Info: Link coloring ON on input line 29.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
-0.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
@@ -801,88 +757,88 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50 \begin{document}
+l.29 \begin{document}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 (./main.abs)
 LaTeX Font Info:    Trying to load font information for LS1+stixscr on input li
-ne 50.
+ne 29.
  (/usr/share/texlive/texmf-dist/tex/latex/stix/ls1stixscr.fd
 File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixex on input lin
-e 50.
+e 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls2stixex.fd
 File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input l
-ine 50.
+ine 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls1stixfrak.fd
 File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixbb on input lin
-e 50.
+e 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls1stixbb.fd
 File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixcal on input li
-ne 50.
+ne 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls2stixcal.fd
 File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
 ons
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixsf on input lin
-e 50.
+e 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls1stixsf.fd
 File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixtt on input lin
-e 50.
+e 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ls2stixtt.fd
 File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
 
 )
 
-Package hyperref Warning: Ignoring empty anchor on input line 50.
+Package hyperref Warning: Ignoring empty anchor on input line 29.
 
-<thumbnails/cas-email.jpeg, id=13, 225.84375pt x 225.84375pt>
+<thumbnails/cas-email.jpeg, id=12, 225.84375pt x 225.84375pt>
 File: thumbnails/cas-email.jpeg Graphic file (type jpg)
 <use thumbnails/cas-email.jpeg>
-Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 50.
+Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 29.
 (pdftex.def)             Requested size: 7.99838pt x 8.0pt.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 50
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 29
 .
 (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 50.
+(Font)              scaled to size 6.80005pt on input line 29.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 50.
+Package hyperref Warning: Ignoring empty anchor on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
@@ -922,268 +878,49 @@ tim
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[2
 
- <./thumbnails/cas-email.jpeg>]
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 \begin{document}
-                     
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(./main.abs)
-
-Package hyperref Warning: Ignoring empty anchor on input line 50.
-
-File: thumbnails/cas-email.jpeg Graphic file (type jpg)
-<use thumbnails/cas-email.jpeg>
-Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 50.
-(pdftex.def)             Requested size: 7.99838pt x 8.0pt.
-
-Package hyperref Warning: Ignoring empty anchor on input line 50.
-
-\verbatim@out=\write5
-\openout5 = `main.abs'.
-
-
-Overfull \hbox (2.55252pt too wide) in paragraph at lines 152--152
+Overfull \hbox (2.55252pt too wide) in paragraph at lines 128--128
 \T1/stix/b/n/12 with in-tense ge-o-mag-netic storms: re-gional space
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+stix on input line 
-153.
+129.
 (/usr/share/texlive/texmf-dist/tex/latex/stix/ts1stix.fd
 File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
-) [0
+)
+\verbatim@out=\write5
+\openout5 = `main.abs'.
 
-]
-Overfull \hbox (123.62721pt too wide) detected at line 165
+ [0
+
+ <./thumbnails/cas-email.jpeg>]
+Overfull \hbox (123.62721pt too wide) detected at line 147
 []
  []
 
 (./main.abs)
 
-Package hyperref Warning: Ignoring empty anchor on input line 165.
+Package hyperref Warning: Ignoring empty anchor on input line 147.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 165.
+Package hyperref Warning: Ignoring empty anchor on input line 147.
 
 File: thumbnails/cas-email.jpeg Graphic file (type jpg)
 <use thumbnails/cas-email.jpeg>
-Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 165.
+Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 7.99838pt x 8.0pt.
 
-Package hyperref Warning: Ignoring empty anchor on input line 165.
-
-
-Package natbib Warning: Citation `schrijver2015' on page 1 undefined on input l
-ine 174.
-
-
-Package natbib Warning: Citation `gonzalestgm' on page 1 undefined on input lin
-e 174.
-
-
-Package natbib Warning: Citation `l_basic_spaceplasmaphysic' on page 1 undefine
-d on input line 174.
-
-
-Package natbib Warning: Citation `l_russell' on page 1 undefined on input line 
-174.
-
-
-Package natbib Warning: Citation `mayaud1980' on page 1 undefined on input line
- 176.
-
-
-Package natbib Warning: Citation `gic_intro' on page 1 undefined on input line 
-179.
-
-
-Package natbib Warning: Citation `gic' on page 1 undefined on input line 179.
-
-
-Package natbib Warning: Citation `gic_2' on page 1 undefined on input line 179.
-
-
-
-Package natbib Warning: Citation `gic_brazil' on page 1 undefined on input line
- 179.
-
-
-Package natbib Warning: Citation `gic_czech' on page 1 undefined on input line 
-181.
-
-
-Package natbib Warning: Citation `gic_brazil' on page 1 undefined on input line
- 181.
-
-
-Package natbib Warning: Citation `gic' on page 1 undefined on input line 181.
-
-
-Package natbib Warning: Citation `MEXART2003' on page 1 undefined on input line
- 181.
-
-
-Package natbib Warning: Citation `MEXART2005' on page 1 undefined on input line
- 181.
-
-
-Package natbib Warning: Citation `MEXART_iono_dist' on page 1 undefined on inpu
-t line 181.
-
-
-Package natbib Warning: Citation `MEXART_iono_dist2' on page 1 undefined on inp
-ut line 181.
-
-
-Package natbib Warning: Citation `mario_rodriguez2011' on page 1 undefined on i
-nput line 181.
-
-
-Package natbib Warning: Citation `lopez-montes' on page 1 undefined on input li
-ne 181.
-
-
-Package natbib Warning: Citation `mario_rodriguez2014' on page 1 undefined on i
-nput line 181.
-
-
-Package natbib Warning: Citation `iono-resp2016' on page 1 undefined on input l
-ine 181.
-
-
-Package natbib Warning: Citation `lenica' on page 1 undefined on input line 181
-.
-
-
-Package natbib Warning: Citation `sciesmex_art' on page 1 undefined on input li
-ne 181.
-
-
-Package natbib Warning: Citation `esmeralda' on page 1 undefined on input line 
-183.
-
-
-Package natbib Warning: Citation `dramaria_1' on page 1 undefined on input line
- 183.
-
-
-Package natbib Warning: Citation `dramaria7' on page 1 undefined on input line 
-183.
-
-
-Package natbib Warning: Citation `P-corona1' on page 1 undefined on input line 
-183.
-
-
-Package natbib Warning: Citation `P-corona2' on page 1 undefined on input line 
-183.
-
-
-Package natbib Warning: Citation `nishida_68_coherence' on page 1 undefined on 
-input line 183.
-
-
-Package natbib Warning: Citation `nishida_68_fluctuations' on page 1 undefined 
-on input line 183.
-
-
-Package natbib Warning: Citation `nishida_66_knee' on page 1 undefined on input
- line 183.
-
-
-Package natbib Warning: Citation `blanc_ddyn' on page 1 undefined on input line
- 183.
+Package hyperref Warning: Ignoring empty anchor on input line 147.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 
+l.166 
        [1
 
 ]
-
-Package natbib Warning: Citation `dp2PPEF' on page 2 undefined on input line 18
-5.
-
-
-Package natbib Warning: Citation `dp2_diag' on page 2 undefined on input line 1
-85.
-
-
-Package natbib Warning: Citation `Hepner_a' on page 2 undefined on input line 1
-85.
-
-
-Package natbib Warning: Citation `Hepner_b' on page 2 undefined on input line 1
-85.
-
-
-Package natbib Warning: Citation `Pudovkin' on page 2 undefined on input line 1
-85.
-
-
-Package natbib Warning: Citation `blanc_caudal' on page 2 undefined on input li
-ne 185.
-
-
-Package natbib Warning: Citation `Denisenko' on page 2 undefined on input line 
-185.
-
-
-Package natbib Warning: Citation `nishida_66_knee' on page 2 undefined on input
- line 185.
-
-
-Package natbib Warning: Citation `nishida_68_coherence' on page 2 undefined on 
-input line 185.
-
-
-Package natbib Warning: Citation `nishida_andobayashi_67' on page 2 undefined o
-n input line 185.
-
-
-Package natbib Warning: Citation `blanc_ddyn' on page 2 undefined on input line
- 187.
-
-
-Package natbib Warning: Citation `ddyn2005' on page 2 undefined on input line 1
-87.
-
-
-Package natbib Warning: Citation `angeoddyn' on page 2 undefined on input line 
-187.
-
-
-Package natbib Warning: Citation `blanc_ddyn' on page 2 undefined on input line
- 187.
-
-
-Package natbib Warning: Citation `ddyn2005' on page 2 undefined on input line 2
-71.
-
-
-Package natbib Warning: Citation `angeoddyn' on page 2 undefined on input line 
-271.
-
-
-Package natbib Warning: Citation `amorymazaudier_2017' on page 2 undefined on i
-nput line 271.
-
-
-Package natbib Warning: Citation `amory2020_filtros' on page 2 undefined on inp
-ut line 271.
-
 Package epstopdf Info: Source file: <images/disp_dst_v_dh/dispersion_general_ds
 t.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
@@ -1195,79 +932,17 @@ t-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=images/disp_dst_v_dh/dispe
 rsion_general_dst-eps-converted-to.pdf images/disp_dst_v_dh/dispersion_general_
 dst.eps>
-(epstopdf)             \includegraphics on input line 275.
+(epstopdf)             \includegraphics on input line 257.
 Package epstopdf Info: Output file is already uptodate.
-<images/disp_dst_v_dh/dispersion_general_dst-eps-converted-to.pdf, id=37, 433.6
-2pt x 433.62pt>
+<images/disp_dst_v_dh/dispersion_general_dst-eps-converted-to.pdf, id=106, 433.
+62pt x 433.62pt>
 File: images/disp_dst_v_dh/dispersion_general_dst-eps-converted-to.pdf Graphic 
 file (type pdf)
 <use images/disp_dst_v_dh/dispersion_general_dst-eps-converted-to.pdf>
 Package pdftex.def Info: images/disp_dst_v_dh/dispersion_general_dst-eps-conver
-ted-to.pdf  used on input line 275.
+ted-to.pdf  used on input line 257.
 (pdftex.def)             Requested size: 222.52748pt x 222.52612pt.
-
-Package natbib Warning: Citation `1969intro_to_iono_p' on page 2 undefined on i
-nput line 284.
-
-
-Package natbib Warning: Citation `l_handbook_geof_sw_Geom_field' on page 2 unde
-fined on input line 284.
-
-
-Package natbib Warning: Citation `baseline_Gjerloev' on page 2 undefined on inp
-ut line 284.
-
-
-Package natbib Warning: Citation `vanKampt' on page 2 undefined on input line 2
-84.
-
-
-Package natbib Warning: Citation `vanKampt' on page 2 undefined on input line 2
-89.
-
-
-Package natbib Warning: Citation `baseline_Gjerloev' on page 2 undefined on inp
-ut line 289.
-
-
-Package natbib Warning: Citation `ddyn2005' on page 2 undefined on input line 2
-89.
-
-
-Package natbib Warning: Citation `angeoddyn' on page 2 undefined on input line 
-289.
-
-
-Package natbib Warning: Citation `amorymazaudier_2017' on page 2 undefined on i
-nput line 289.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.293 \end{equation}
-                     [2]
-
-Package natbib Warning: Citation `amory2020_filtros' on page 3 undefined on inp
-ut line 302.
-
-
-Package natbib Warning: Citation `blanc_ddyn' on page 3 undefined on input line
- 302.
-
-
-Package natbib Warning: Citation `angeoddyn' on page 3 undefined on input line 
-302.
-
-
-Package natbib Warning: Citation `nishida_68_fluctuations' on page 3 undefined 
-on input line 302.
-
-
-Package natbib Warning: Citation `blanc_ddyn' on page 3 undefined on input line
- 302.
-
+ [2]
 Package epstopdf Info: Source file: <images/diono/iono_PI_2015-03-15.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
 (epstopdf)                    size: 606398 bytes
@@ -1277,21 +952,17 @@ ted-to.pdf>
 (epstopdf)                    size: 506129 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_2015-
 03-15-eps-converted-to.pdf images/diono/iono_PI_2015-03-15.eps>
-(epstopdf)             \includegraphics on input line 318.
+(epstopdf)             \includegraphics on input line 300.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_2015-03-15-eps-converted-to.pdf, id=57, 1156.32pt x 722.7
-pt>
+<images/diono/iono_PI_2015-03-15-eps-converted-to.pdf, id=161, 1156.32pt x 722.
+7pt>
 File: images/diono/iono_PI_2015-03-15-eps-converted-to.pdf Graphic file (type p
 df)
 <use images/diono/iono_PI_2015-03-15-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_2015-03-15-eps-converted-to.pdf  
-used on input line 318.
+used on input line 300.
 (pdftex.def)             Requested size: 420.33556pt x 262.70811pt.
-[3]
-
-Package natbib Warning: Citation `nishida_68_fluctuations' on page 4 undefined 
-on input line 329.
-
+ [3]
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-03-15
 .eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1303,15 +974,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-03-15
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2015-03-15-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2015-03-1
 5.eps>
-(epstopdf)             \includegraphics on input line 353.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf, id=85, 1156.3
-2pt x 722.7pt>
+<images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf, id=191, 1156.
+32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2015-03-15-eps-convert
-ed-to.pdf  used on input line 353.
+ed-to.pdf  used on input line 335.
 (pdftex.def)             Requested size: 222.52748pt x 139.07883pt.
 Package epstopdf Info: Source file: <images/prom_dist.eps>
 (epstopdf)                    date: 2023-11-09 17:52:26
@@ -1321,15 +992,15 @@ Package epstopdf Info: Source file: <images/prom_dist.eps>
 (epstopdf)                    size: 14540 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/prom_dist-eps-conve
 rted-to.pdf images/prom_dist.eps>
-(epstopdf)             \includegraphics on input line 364.
+(epstopdf)             \includegraphics on input line 346.
 Package epstopdf Info: Output file is already uptodate.
-<images/prom_dist-eps-converted-to.pdf, id=89, 451.6875pt x 202.7575pt>
+<images/prom_dist-eps-converted-to.pdf, id=195, 451.6875pt x 202.7575pt>
 File: images/prom_dist-eps-converted-to.pdf Graphic file (type pdf)
 <use images/prom_dist-eps-converted-to.pdf>
 Package pdftex.def Info: images/prom_dist-eps-converted-to.pdf  used on input l
-ine 364.
+ine 346.
 (pdftex.def)             Requested size: 222.52748pt x 99.89037pt.
-Excluding 'comment' comment.
+ Excluding 'comment' comment.
 Package epstopdf Info: Source file: <dispersion_general_dst_ld.eps>
 (epstopdf)                    date: 2023-11-09 17:52:26
 (epstopdf)                    size: 252241 bytes
@@ -1339,45 +1010,144 @@ Package epstopdf Info: Source file: <dispersion_general_dst_ld.eps>
 (epstopdf)                    size: 94098 bytes
 (epstopdf)             Command: <repstopdf --outfile=dispersion_general_dst_ld-
 eps-converted-to.pdf dispersion_general_dst_ld.eps>
-(epstopdf)             \includegraphics on input line 410.
+(epstopdf)             \includegraphics on input line 392.
 Package epstopdf Info: Output file is already uptodate.
-<dispersion_general_dst_ld-eps-converted-to.pdf, id=93, 433.62pt x 433.62pt>
+<dispersion_general_dst_ld-eps-converted-to.pdf, id=199, 433.62pt x 433.62pt>
 File: dispersion_general_dst_ld-eps-converted-to.pdf Graphic file (type pdf)
 <use dispersion_general_dst_ld-eps-converted-to.pdf>
 Package pdftex.def Info: dispersion_general_dst_ld-eps-converted-to.pdf  used o
-n input line 410.
+n input line 392.
 (pdftex.def)             Requested size: 222.52748pt x 222.52612pt.
  [4 <./images/disp_dst_v_dh/dispersion_general_dst-eps-converted-to.pdf>] [5 <.
 /images/diono/iono_PI_2015-03-15-eps-converted-to.pdf> <./images/dH_approx/dion
 o_valid_V4_2015-03-15-eps-converted-to.pdf> <./images/prom_dist-eps-converted-t
 o.pdf>]
-Overfull \hbox (2.8905pt too wide) in paragraph at lines 433--434
+Overfull \hbox (2.8905pt too wide) in paragraph at lines 415--416
 \T1/stix/b/n/10 Corona-Romero, P.: \T1/stix/m/n/10 Con-cep-tu-al-iza-tion, Meth
 od-ol-ogy, Soft-
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 445--447
+Underfull \hbox (badness 1038) in paragraph at lines 427--429
 []\T1/stix/m/n/10 P. Corona-Romero is grate-ful for In-ves-ti-gadores por
  []
 
 
-Overfull \hbox (11.13383pt too wide) in paragraph at lines 445--447
+Overfull \hbox (11.13383pt too wide) in paragraph at lines 427--429
 \T1/stix/m/n/10 México-CONAHCYT (CONAH-CYT Re-search Fel-low) project
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 445--447
+Underfull \hbox (badness 1052) in paragraph at lines 427--429
 \T1/stix/m/n/10 sup-port from CONHACyT-AEM grant 2017-01-292684,
  []
 
 
-Overfull \hbox (2.1655pt too wide) in paragraph at lines 450--451
+Overfull \hbox (2.1655pt too wide) in paragraph at lines 432--433
 \T1/stix/m/n/10 Pots-dam Deutsches Ge-o-ForschungsZen-trum Adolf-Schmidt-
  []
 
-[6 <./dispersion_general_dst_ld-eps-converted-to.pdf>]
-No file main.bbl.
+[6 <./dispersion_general_dst_ld-eps-converted-to.pdf>] (./main.bbl
+Underfull \hbox (badness 1122) in paragraph at lines 40--46
+[]\T1/stix/m/n/8 Baumjohann, W., Treumann, R.A., 1999.  Ba-sic Space Plasma
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 139--146
+\T1/stix/m/n/8 Jour-nal of Geo-phys-i-cal Re-search (Space Physics) 117, A09213
+.
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 160--173
+[]\T1/stix/m/n/8 Gonzalez-Esparza, A., Car-rillo, A., An-drade, E., Jeyaku-mar,
+ S.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--188
+[]\T1/stix/m/n/8 Gonzalez-Esparza, J.A., De la Luz, V., Corona-Romero,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--188
+\T1/stix/m/n/8 P., Mejia-Ambriz, J.C., Gon-za-lez, L.X., Sergeeva, M.A.,
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 174--188
+\T1/stix/m/n/8 Romero-Hernandez, E., Aguilar-Rodriguez, E., 2017.  Mex-i-can
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 174--188
+\T1/stix/m/n/8 space weather ser-vice (sci-es-mex).  Space Weather 15, 3--11.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--188
+\T1/stix/m/n/8 URL: [][]$\T1/zi4/m/n/8 https : / / agupubs . onlinelibrary . wi
+ley . com / doi / abs / 10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--188
+\T1/zi4/m/n/8 1002 / 2016SW001496$[][]\T1/stix/m/n/8 , doi:[][]$\T1/zi4/m/n/8 h
+ttps : / / doi . org / 10 . 1002 / 2016SW001496$[][]\T1/stix/m/n/8 ,
+ []
+
+
+Overfull \hbox (33.67537pt too wide) in paragraph at lines 174--188
+[][]\T1/zi4/m/n/8 arXiv:https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002
+/2016SW001496[][]\T1/stix/m/n/8 . 
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 189--197
+\T1/stix/m/n/8 2003.  An-nales Geo-phys-i-cae 23, 3089--3093.  doi:[][]$\T1/zi4
+/m/n/8 10 . 5194 /
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 212--220
+\T1/stix/m/n/8 tric fields to the low lat-i-tude iono-sphere in the magnetosphe
+re-
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 249--257
+[]\T1/stix/m/n/8 Martínez-Bretón L., J., Or-tega, B.M., Hernandez-Quintero, J.E
+.,
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 293--300
+[]\T1/stix/m/n/8 Nishida, A., 1968b.  Ge-o-mag-netic D$[]$ 2 fluc-tu-a-tions an
+d as-
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 293--300
+\T1/stix/m/n/8 so-ci-ated mag-ne-to-spheric phe-nom-ena. 1795--1803.  doi:[][]$
+\T1/zi4/m/n/8 10 . 1029 /
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 367--378
+[]\T1/stix/m/n/8 Romero-Hernandez, E., Gonzalez-Esparza, J.A., Rodriguez-
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 392--409
+\T1/stix/m/n/8 Malt-seva, O.A., Cher-nov, A.G., Corona-Romero, P., De la Luz,
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 392--409
+\T1/stix/m/n/8 V., Mejia-Ambriz, J.C., Gon-za-lez, L.X., Romero-Hernandez, E.,
+ []
+
+)
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2003-05-26.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
 (epstopdf)                    size: 682250 bytes
@@ -1387,15 +1157,15 @@ verted-to.pdf>
 (epstopdf)                    size: 595140 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 03-05-26-eps-converted-to.pdf images/diono/iono_PI_V1_2003-05-26.eps>
-(epstopdf)             \includegraphics on input line 484.
+(epstopdf)             \includegraphics on input line 466.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf, id=178, 1156.32pt x 7
+<images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf, id=334, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pd
-f  used on input line 484.
+f  used on input line 466.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2003-10-11.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
@@ -1406,15 +1176,15 @@ verted-to.pdf>
 (epstopdf)                    size: 632871 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 03-10-11-eps-converted-to.pdf images/diono/iono_PI_V1_2003-10-11.eps>
-(epstopdf)             \includegraphics on input line 485.
+(epstopdf)             \includegraphics on input line 467.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2003-10-11-eps-converted-to.pdf, id=179, 1156.32pt x 7
+<images/diono/iono_PI_V1_2003-10-11-eps-converted-to.pdf, id=335, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2003-10-11-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2003-10-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2003-10-11-eps-converted-to.pd
-f  used on input line 485.
+f  used on input line 467.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2003-11-19.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
@@ -1425,15 +1195,15 @@ verted-to.pdf>
 (epstopdf)                    size: 222470 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 03-11-19-eps-converted-to.pdf images/diono/iono_PI_V1_2003-11-19.eps>
-(epstopdf)             \includegraphics on input line 490.
+(epstopdf)             \includegraphics on input line 472.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2003-11-19-eps-converted-to.pdf, id=180, 1156.32pt x 7
+<images/diono/iono_PI_V1_2003-11-19-eps-converted-to.pdf, id=336, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2003-11-19-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2003-11-19-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2003-11-19-eps-converted-to.pd
-f  used on input line 490.
+f  used on input line 472.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2004-07-21.eps>
 (epstopdf)                    date: 2023-11-09 17:52:28
@@ -1444,15 +1214,15 @@ verted-to.pdf>
 (epstopdf)                    size: 450133 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 04-07-21-eps-converted-to.pdf images/diono/iono_PI_V1_2004-07-21.eps>
-(epstopdf)             \includegraphics on input line 491.
+(epstopdf)             \includegraphics on input line 473.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2004-07-21-eps-converted-to.pdf, id=181, 1156.32pt x 7
+<images/diono/iono_PI_V1_2004-07-21-eps-converted-to.pdf, id=337, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2004-07-21-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2004-07-21-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2004-07-21-eps-converted-to.pd
-f  used on input line 491.
+f  used on input line 473.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2004-08-27.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1463,15 +1233,15 @@ verted-to.pdf>
 (epstopdf)                    size: 370555 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 04-08-27-eps-converted-to.pdf images/diono/iono_PI_V1_2004-08-27.eps>
-(epstopdf)             \includegraphics on input line 496.
+(epstopdf)             \includegraphics on input line 478.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pdf, id=182, 1156.32pt x 7
+<images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pdf, id=338, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pd
-f  used on input line 496.
+f  used on input line 478.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2004-11-06.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1482,15 +1252,15 @@ verted-to.pdf>
 (epstopdf)                    size: 300214 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 04-11-06-eps-converted-to.pdf images/diono/iono_PI_V1_2004-11-06.eps>
-(epstopdf)             \includegraphics on input line 497.
+(epstopdf)             \includegraphics on input line 479.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2004-11-06-eps-converted-to.pdf, id=183, 1156.32pt x 7
+<images/diono/iono_PI_V1_2004-11-06-eps-converted-to.pdf, id=339, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2004-11-06-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2004-11-06-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2004-11-06-eps-converted-to.pd
-f  used on input line 497.
+f  used on input line 479.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2005-05-14.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1501,15 +1271,15 @@ verted-to.pdf>
 (epstopdf)                    size: 237063 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 05-05-14-eps-converted-to.pdf images/diono/iono_PI_V1_2005-05-14.eps>
-(epstopdf)             \includegraphics on input line 502.
+(epstopdf)             \includegraphics on input line 484.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2005-05-14-eps-converted-to.pdf, id=184, 1156.32pt x 7
+<images/diono/iono_PI_V1_2005-05-14-eps-converted-to.pdf, id=340, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2005-05-14-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2005-05-14-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2005-05-14-eps-converted-to.pd
-f  used on input line 502.
+f  used on input line 484.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2005-06-11.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1520,15 +1290,15 @@ verted-to.pdf>
 (epstopdf)                    size: 369838 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 05-06-11-eps-converted-to.pdf images/diono/iono_PI_V1_2005-06-11.eps>
-(epstopdf)             \includegraphics on input line 503.
+(epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2005-06-11-eps-converted-to.pdf, id=185, 1156.32pt x 7
+<images/diono/iono_PI_V1_2005-06-11-eps-converted-to.pdf, id=341, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2005-06-11-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2005-06-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2005-06-11-eps-converted-to.pd
-f  used on input line 503.
+f  used on input line 485.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2005-08-21.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1539,15 +1309,15 @@ verted-to.pdf>
 (epstopdf)                    size: 265631 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 05-08-21-eps-converted-to.pdf images/diono/iono_PI_V1_2005-08-21.eps>
-(epstopdf)             \includegraphics on input line 509.
+(epstopdf)             \includegraphics on input line 491.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pdf, id=186, 1156.32pt x 7
+<images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pdf, id=342, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pd
-f  used on input line 509.
+f  used on input line 491.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2005-08-30.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1558,15 +1328,15 @@ verted-to.pdf>
 (epstopdf)                    size: 437556 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 05-08-30-eps-converted-to.pdf images/diono/iono_PI_V1_2005-08-30.eps>
-(epstopdf)             \includegraphics on input line 510.
+(epstopdf)             \includegraphics on input line 492.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf, id=187, 1156.32pt x 7
+<images/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf, id=343, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2005-08-30-eps-converted-to.pd
-f  used on input line 510.
+f  used on input line 492.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2006-08-17.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1577,15 +1347,15 @@ verted-to.pdf>
 (epstopdf)                    size: 367815 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 06-08-17-eps-converted-to.pdf images/diono/iono_PI_V1_2006-08-17.eps>
-(epstopdf)             \includegraphics on input line 527.
+(epstopdf)             \includegraphics on input line 509.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2006-08-17-eps-converted-to.pdf, id=188, 1156.32pt x 7
+<images/diono/iono_PI_V1_2006-08-17-eps-converted-to.pdf, id=344, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2006-08-17-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2006-08-17-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2006-08-17-eps-converted-to.pd
-f  used on input line 527.
+f  used on input line 509.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2006-12-12.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1596,15 +1366,15 @@ verted-to.pdf>
 (epstopdf)                    size: 260569 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 06-12-12-eps-converted-to.pdf images/diono/iono_PI_V1_2006-12-12.eps>
-(epstopdf)             \includegraphics on input line 528.
+(epstopdf)             \includegraphics on input line 510.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2006-12-12-eps-converted-to.pdf, id=189, 1156.32pt x 7
+<images/diono/iono_PI_V1_2006-12-12-eps-converted-to.pdf, id=345, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2006-12-12-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2006-12-12-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2006-12-12-eps-converted-to.pd
-f  used on input line 528.
+f  used on input line 510.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2015-03-15.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1615,15 +1385,15 @@ verted-to.pdf>
 (epstopdf)                    size: 309215 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 15-03-15-eps-converted-to.pdf images/diono/iono_PI_V1_2015-03-15.eps>
-(epstopdf)             \includegraphics on input line 533.
+(epstopdf)             \includegraphics on input line 515.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf, id=190, 1156.32pt x 7
+<images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf, id=346, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pd
-f  used on input line 533.
+f  used on input line 515.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2015-10-05.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1634,15 +1404,15 @@ verted-to.pdf>
 (epstopdf)                    size: 310707 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 15-10-05-eps-converted-to.pdf images/diono/iono_PI_V1_2015-10-05.eps>
-(epstopdf)             \includegraphics on input line 534.
+(epstopdf)             \includegraphics on input line 516.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf, id=191, 1156.32pt x 7
+<images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf, id=347, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pd
-f  used on input line 534.
+f  used on input line 516.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2015-12-17.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1653,15 +1423,15 @@ verted-to.pdf>
 (epstopdf)                    size: 296164 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 15-12-17-eps-converted-to.pdf images/diono/iono_PI_V1_2015-12-17.eps>
-(epstopdf)             \includegraphics on input line 539.
+(epstopdf)             \includegraphics on input line 521.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2015-12-17-eps-converted-to.pdf, id=192, 1156.32pt x 7
+<images/diono/iono_PI_V1_2015-12-17-eps-converted-to.pdf, id=348, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2015-12-17-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2015-12-17-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2015-12-17-eps-converted-to.pd
-f  used on input line 539.
+f  used on input line 521.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2016-03-04.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1672,15 +1442,15 @@ verted-to.pdf>
 (epstopdf)                    size: 440528 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 16-03-04-eps-converted-to.pdf images/diono/iono_PI_V1_2016-03-04.eps>
-(epstopdf)             \includegraphics on input line 540.
+(epstopdf)             \includegraphics on input line 522.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2016-03-04-eps-converted-to.pdf, id=193, 1156.32pt x 7
+<images/diono/iono_PI_V1_2016-03-04-eps-converted-to.pdf, id=349, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2016-03-04-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2016-03-04-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2016-03-04-eps-converted-to.pd
-f  used on input line 540.
+f  used on input line 522.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2016-10-11.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1691,15 +1461,15 @@ verted-to.pdf>
 (epstopdf)                    size: 478933 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 16-10-11-eps-converted-to.pdf images/diono/iono_PI_V1_2016-10-11.eps>
-(epstopdf)             \includegraphics on input line 545.
+(epstopdf)             \includegraphics on input line 527.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pdf, id=194, 1156.32pt x 7
+<images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pdf, id=350, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pd
-f  used on input line 545.
+f  used on input line 527.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2017-05-26.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1710,15 +1480,15 @@ verted-to.pdf>
 (epstopdf)                    size: 183930 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 17-05-26-eps-converted-to.pdf images/diono/iono_PI_V1_2017-05-26.eps>
-(epstopdf)             \includegraphics on input line 546.
+(epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf, id=195, 1156.32pt x 7
+<images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf, id=351, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pd
-f  used on input line 546.
+f  used on input line 528.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2017-09-06.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1729,15 +1499,15 @@ verted-to.pdf>
 (epstopdf)                    size: 196776 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 17-09-06-eps-converted-to.pdf images/diono/iono_PI_V1_2017-09-06.eps>
-(epstopdf)             \includegraphics on input line 552.
+(epstopdf)             \includegraphics on input line 534.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2017-09-06-eps-converted-to.pdf, id=196, 1156.32pt x 7
+<images/diono/iono_PI_V1_2017-09-06-eps-converted-to.pdf, id=352, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2017-09-06-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2017-09-06-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2017-09-06-eps-converted-to.pd
-f  used on input line 552.
+f  used on input line 534.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/diono/iono_PI_V1_2018-08-24.eps>
 (epstopdf)                    date: 2023-11-09 17:52:30
@@ -1748,15 +1518,15 @@ verted-to.pdf>
 (epstopdf)                    size: 193104 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/diono/iono_PI_V1_20
 18-08-24-eps-converted-to.pdf images/diono/iono_PI_V1_2018-08-24.eps>
-(epstopdf)             \includegraphics on input line 553.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
-<images/diono/iono_PI_V1_2018-08-24-eps-converted-to.pdf, id=197, 1156.32pt x 7
+<images/diono/iono_PI_V1_2018-08-24-eps-converted-to.pdf, id=353, 1156.32pt x 7
 22.7pt>
 File: images/diono/iono_PI_V1_2018-08-24-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use images/diono/iono_PI_V1_2018-08-24-eps-converted-to.pdf>
 Package pdftex.def Info: images/diono/iono_PI_V1_2018-08-24-eps-converted-to.pd
-f  used on input line 553.
+f  used on input line 535.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-05-26
 .eps>
@@ -1769,15 +1539,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-05-26
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2003-05-26-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2003-05-2
 6.eps>
-(epstopdf)             \includegraphics on input line 570.
+(epstopdf)             \includegraphics on input line 552.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2003-05-26-eps-converted-to.pdf, id=198, 1156.
+<images/dH_approx/diono_valid_V4_2003-05-26-eps-converted-to.pdf, id=354, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2003-05-26-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2003-05-26-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2003-05-26-eps-convert
-ed-to.pdf  used on input line 570.
+ed-to.pdf  used on input line 552.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-10-11
 .eps>
@@ -1790,15 +1560,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-10-11
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2003-10-11-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2003-10-1
 1.eps>
-(epstopdf)             \includegraphics on input line 571.
+(epstopdf)             \includegraphics on input line 553.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-to.pdf, id=199, 1156.
+<images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-to.pdf, id=355, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2003-10-11-eps-convert
-ed-to.pdf  used on input line 571.
+ed-to.pdf  used on input line 553.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-11-19
 .eps>
@@ -1811,15 +1581,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2003-11-19
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2003-11-19-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2003-11-1
 9.eps>
-(epstopdf)             \includegraphics on input line 576.
+(epstopdf)             \includegraphics on input line 558.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf, id=200, 1156.
+<images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf, id=356, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2003-11-19-eps-convert
-ed-to.pdf  used on input line 576.
+ed-to.pdf  used on input line 558.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-07-21
 .eps>
@@ -1832,15 +1602,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-07-21
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2004-07-21-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2004-07-2
 1.eps>
-(epstopdf)             \includegraphics on input line 577.
+(epstopdf)             \includegraphics on input line 559.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf, id=201, 1156.
+<images/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf, id=357, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2004-07-21-eps-convert
-ed-to.pdf  used on input line 577.
+ed-to.pdf  used on input line 559.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-08-27
 .eps>
@@ -1853,15 +1623,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-08-27
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2004-08-27-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2004-08-2
 7.eps>
-(epstopdf)             \includegraphics on input line 582.
+(epstopdf)             \includegraphics on input line 564.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2004-08-27-eps-converted-to.pdf, id=202, 1156.
+<images/dH_approx/diono_valid_V4_2004-08-27-eps-converted-to.pdf, id=358, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2004-08-27-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2004-08-27-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2004-08-27-eps-convert
-ed-to.pdf  used on input line 582.
+ed-to.pdf  used on input line 564.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-11-06
 .eps>
@@ -1874,15 +1644,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2004-11-06
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2004-11-06-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2004-11-0
 6.eps>
-(epstopdf)             \includegraphics on input line 583.
+(epstopdf)             \includegraphics on input line 565.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2004-11-06-eps-converted-to.pdf, id=203, 1156.
+<images/dH_approx/diono_valid_V4_2004-11-06-eps-converted-to.pdf, id=359, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2004-11-06-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2004-11-06-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2004-11-06-eps-convert
-ed-to.pdf  used on input line 583.
+ed-to.pdf  used on input line 565.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-05-14
 .eps>
@@ -1895,15 +1665,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-05-14
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2005-05-14-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2005-05-1
 4.eps>
-(epstopdf)             \includegraphics on input line 588.
+(epstopdf)             \includegraphics on input line 570.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2005-05-14-eps-converted-to.pdf, id=204, 1156.
+<images/dH_approx/diono_valid_V4_2005-05-14-eps-converted-to.pdf, id=360, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2005-05-14-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2005-05-14-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2005-05-14-eps-convert
-ed-to.pdf  used on input line 588.
+ed-to.pdf  used on input line 570.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-06-11
 .eps>
@@ -1916,15 +1686,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-06-11
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2005-06-11-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2005-06-1
 1.eps>
-(epstopdf)             \includegraphics on input line 589.
+(epstopdf)             \includegraphics on input line 571.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2005-06-11-eps-converted-to.pdf, id=205, 1156.
+<images/dH_approx/diono_valid_V4_2005-06-11-eps-converted-to.pdf, id=361, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2005-06-11-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2005-06-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2005-06-11-eps-convert
-ed-to.pdf  used on input line 589.
+ed-to.pdf  used on input line 571.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-08-21
 .eps>
@@ -1937,15 +1707,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-08-21
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2005-08-21-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2005-08-2
 1.eps>
-(epstopdf)             \includegraphics on input line 595.
+(epstopdf)             \includegraphics on input line 577.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2005-08-21-eps-converted-to.pdf, id=206, 1156.
+<images/dH_approx/diono_valid_V4_2005-08-21-eps-converted-to.pdf, id=362, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2005-08-21-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2005-08-21-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2005-08-21-eps-convert
-ed-to.pdf  used on input line 595.
+ed-to.pdf  used on input line 577.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-08-30
 .eps>
@@ -1958,15 +1728,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2005-08-30
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2005-08-30-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2005-08-3
 0.eps>
-(epstopdf)             \includegraphics on input line 596.
+(epstopdf)             \includegraphics on input line 578.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf, id=207, 1156.
+<images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf, id=363, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2005-08-30-eps-convert
-ed-to.pdf  used on input line 596.
+ed-to.pdf  used on input line 578.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2006-08-17
 .eps>
@@ -1979,15 +1749,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2006-08-17
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2006-08-17-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2006-08-1
 7.eps>
-(epstopdf)             \includegraphics on input line 613.
+(epstopdf)             \includegraphics on input line 595.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf, id=208, 1156.
+<images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf, id=364, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2006-08-17-eps-convert
-ed-to.pdf  used on input line 613.
+ed-to.pdf  used on input line 595.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2006-12-12
 .eps>
@@ -2000,15 +1770,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2006-12-12
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2006-12-12-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2006-12-1
 2.eps>
-(epstopdf)             \includegraphics on input line 614.
+(epstopdf)             \includegraphics on input line 596.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf, id=209, 1156.
+<images/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf, id=365, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2006-12-12-eps-convert
-ed-to.pdf  used on input line 614.
+ed-to.pdf  used on input line 596.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-03-15
 .eps>
@@ -2021,13 +1791,13 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-03-15
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2015-03-15-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2015-03-1
 5.eps>
-(epstopdf)             \includegraphics on input line 619.
+(epstopdf)             \includegraphics on input line 601.
 Package epstopdf Info: Output file is already uptodate.
 File: images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2015-03-15-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2015-03-15-eps-convert
-ed-to.pdf  used on input line 619.
+ed-to.pdf  used on input line 601.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-10-05
 .eps>
@@ -2040,15 +1810,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-10-05
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2015-10-05-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2015-10-0
 5.eps>
-(epstopdf)             \includegraphics on input line 620.
+(epstopdf)             \includegraphics on input line 602.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2015-10-05-eps-converted-to.pdf, id=210, 1156.
+<images/dH_approx/diono_valid_V4_2015-10-05-eps-converted-to.pdf, id=366, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2015-10-05-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2015-10-05-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2015-10-05-eps-convert
-ed-to.pdf  used on input line 620.
+ed-to.pdf  used on input line 602.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-12-17
 .eps>
@@ -2061,15 +1831,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2015-12-17
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2015-12-17-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2015-12-1
 7.eps>
-(epstopdf)             \includegraphics on input line 625.
+(epstopdf)             \includegraphics on input line 607.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2015-12-17-eps-converted-to.pdf, id=211, 1156.
+<images/dH_approx/diono_valid_V4_2015-12-17-eps-converted-to.pdf, id=367, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2015-12-17-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2015-12-17-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2015-12-17-eps-convert
-ed-to.pdf  used on input line 625.
+ed-to.pdf  used on input line 607.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2016-03-04
 .eps>
@@ -2082,15 +1852,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2016-03-04
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2016-03-04-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2016-03-0
 4.eps>
-(epstopdf)             \includegraphics on input line 626.
+(epstopdf)             \includegraphics on input line 608.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2016-03-04-eps-converted-to.pdf, id=212, 1156.
+<images/dH_approx/diono_valid_V4_2016-03-04-eps-converted-to.pdf, id=368, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2016-03-04-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2016-03-04-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2016-03-04-eps-convert
-ed-to.pdf  used on input line 626.
+ed-to.pdf  used on input line 608.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2016-10-11
 .eps>
@@ -2103,15 +1873,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2016-10-11
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2016-10-11-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2016-10-1
 1.eps>
-(epstopdf)             \includegraphics on input line 631.
+(epstopdf)             \includegraphics on input line 613.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2016-10-11-eps-converted-to.pdf, id=213, 1156.
+<images/dH_approx/diono_valid_V4_2016-10-11-eps-converted-to.pdf, id=369, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2016-10-11-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2016-10-11-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2016-10-11-eps-convert
-ed-to.pdf  used on input line 631.
+ed-to.pdf  used on input line 613.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2017-05-26
 .eps>
@@ -2124,15 +1894,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2017-05-26
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2017-05-26-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2017-05-2
 6.eps>
-(epstopdf)             \includegraphics on input line 632.
+(epstopdf)             \includegraphics on input line 614.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to.pdf, id=214, 1156.
+<images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to.pdf, id=370, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2017-05-26-eps-convert
-ed-to.pdf  used on input line 632.
+ed-to.pdf  used on input line 614.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2017-09-06
 .eps>
@@ -2145,15 +1915,15 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2017-09-06
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2017-09-06-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2017-09-0
 6.eps>
-(epstopdf)             \includegraphics on input line 638.
+(epstopdf)             \includegraphics on input line 620.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf, id=215, 1156.
+<images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf, id=371, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2017-09-06-eps-convert
-ed-to.pdf  used on input line 638.
+ed-to.pdf  used on input line 620.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
 Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2018-08-24
 .eps>
@@ -2166,82 +1936,79 @@ Package epstopdf Info: Source file: <images/dH_approx/diono_valid_V4_2018-08-24
 (epstopdf)             Command: <repstopdf --outfile=images/dH_approx/diono_val
 id_V4_2018-08-24-eps-converted-to.pdf images/dH_approx/diono_valid_V4_2018-08-2
 4.eps>
-(epstopdf)             \includegraphics on input line 639.
+(epstopdf)             \includegraphics on input line 621.
 Package epstopdf Info: Output file is already uptodate.
-<images/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf, id=216, 1156.
+<images/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf, id=372, 1156.
 32pt x 722.7pt>
 File: images/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf Graphic f
 ile (type pdf)
 <use images/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf>
 Package pdftex.def Info: images/dH_approx/diono_valid_V4_2018-08-24-eps-convert
-ed-to.pdf  used on input line 639.
+ed-to.pdf  used on input line 621.
 (pdftex.def)             Requested size: 170.71652pt x 106.69106pt.
+ [8
 
-Package natbib Warning: There were undefined citations.
-
-[7
-
-] [8 <./images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf> <./images/dion
+] [9 <./images/diono/iono_PI_V1_2003-05-26-eps-converted-to.pdf> <./images/dion
 o/iono_PI_V1_2003-10-11-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2003-1
 1-19-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2004-07-21-eps-converted-
 to.pdf> <./images/diono/iono_PI_V1_2004-08-27-eps-converted-to.pdf> <./images/d
 iono/iono_PI_V1_2004-11-06-eps-converted-to.pdf> <./images/diono/iono_PI_V1_200
 5-05-14-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2005-06-11-eps-convert
 ed-to.pdf> <./images/diono/iono_PI_V1_2005-08-21-eps-converted-to.pdf> <./image
-s/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf>] [9 <./images/diono/iono_PI
-_V1_2006-08-17-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2006-12-12-eps-
-converted-to.pdf> <./images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf> <
-./images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf> <./images/diono/iono
-_PI_V1_2015-12-17-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2016-03-04-e
-ps-converted-to.pdf> <./images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pdf
-> <./images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf> <./images/diono/i
-ono_PI_V1_2017-09-06-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2018-08-2
-4-eps-converted-to.pdf>] [10 <./images/dH_approx/diono_valid_V4_2003-05-26-eps-
-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-t
-o.pdf> <./images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf> <./i
-mages/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf> <./images/dH_ap
-prox/diono_valid_V4_2004-08-27-eps-converted-to.pdf> <./images/dH_approx/diono_
-valid_V4_2004-11-06-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_20
-05-05-14-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2005-06-11-ep
-s-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2005-08-21-eps-converted
--to.pdf> <./images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf>] [
-11 <./images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf> <./image
-s/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf> <./images/dH_approx
-/diono_valid_V4_2015-10-05-eps-converted-to.pdf> <./images/dH_approx/diono_vali
-d_V4_2015-12-17-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2016-0
-3-04-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2016-10-11-eps-co
-nverted-to.pdf> <./images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to.
-pdf> <./images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf> <./ima
-ges/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf>] (./main.aux)
+s/diono/iono_PI_V1_2005-08-30-eps-converted-to.pdf>] [10 <./images/diono/iono_P
+I_V1_2006-08-17-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2006-12-12-eps
+-converted-to.pdf> <./images/diono/iono_PI_V1_2015-03-15-eps-converted-to.pdf> 
+<./images/diono/iono_PI_V1_2015-10-05-eps-converted-to.pdf> <./images/diono/ion
+o_PI_V1_2015-12-17-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2016-03-04-
+eps-converted-to.pdf> <./images/diono/iono_PI_V1_2016-10-11-eps-converted-to.pd
+f> <./images/diono/iono_PI_V1_2017-05-26-eps-converted-to.pdf> <./images/diono/
+iono_PI_V1_2017-09-06-eps-converted-to.pdf> <./images/diono/iono_PI_V1_2018-08-
+24-eps-converted-to.pdf>] [11 <./images/dH_approx/diono_valid_V4_2003-05-26-eps
+-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2003-10-11-eps-converted-
+to.pdf> <./images/dH_approx/diono_valid_V4_2003-11-19-eps-converted-to.pdf> <./
+images/dH_approx/diono_valid_V4_2004-07-21-eps-converted-to.pdf> <./images/dH_a
+pprox/diono_valid_V4_2004-08-27-eps-converted-to.pdf> <./images/dH_approx/diono
+_valid_V4_2004-11-06-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2
+005-05-14-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2005-06-11-e
+ps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2005-08-21-eps-converte
+d-to.pdf> <./images/dH_approx/diono_valid_V4_2005-08-30-eps-converted-to.pdf>] 
+[12 <./images/dH_approx/diono_valid_V4_2006-08-17-eps-converted-to.pdf> <./imag
+es/dH_approx/diono_valid_V4_2006-12-12-eps-converted-to.pdf> <./images/dH_appro
+x/diono_valid_V4_2015-10-05-eps-converted-to.pdf> <./images/dH_approx/diono_val
+id_V4_2015-12-17-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2016-
+03-04-eps-converted-to.pdf> <./images/dH_approx/diono_valid_V4_2016-10-11-eps-c
+onverted-to.pdf> <./images/dH_approx/diono_valid_V4_2017-05-26-eps-converted-to
+.pdf> <./images/dH_approx/diono_valid_V4_2017-09-06-eps-converted-to.pdf> <./im
+ages/dH_approx/diono_valid_V4_2018-08-24-eps-converted-to.pdf>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17320 strings out of 476091
- 275291 string characters out of 5794080
- 1886330 words of memory out of 5000000
- 37303 multiletter control sequences out of 15000+600000
+ 17510 strings out of 476091
+ 278901 string characters out of 5794080
+ 1889330 words of memory out of 5000000
+ 37450 multiletter control sequences out of 15000+600000
  613543 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,93p,1218b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,93p,1216b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/stix/stix-ts1.enc}{/usr/share/texlive/texmf-dist/f
-onts/enc/dvips/stix/stix-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-inconsolata/i4-t1-0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/incon
+e/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/stix/stix-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc
+/dvips/stix/stix-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/incon
 solata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/s
 tix/STIXGeneral-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix
 /STIXGeneral-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/
-STIXGeneral-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texm
-f/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public
-/cm-super/sfsx0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/s
-tix-mathcal.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mat
-hit.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mathscr.pfb>
-Output written on main.pdf (14 pages, 8148993 bytes).
+STIXGeneral-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfsx0900.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/stix/stix-mathcal.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/stix/stix-mathit.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/s
+tix/stix-mathrm.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix
+-mathscr.pfb>
+Output written on main.pdf (14 pages, 8155422 bytes).
 PDF statistics:
- 585 PDF objects out of 1000 (max. 8388607)
- 423 compressed objects within 5 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 746 PDF objects out of 1000 (max. 8388607)
+ 585 compressed objects within 6 object streams
+ 90 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

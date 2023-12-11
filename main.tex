@@ -1,25 +1,6 @@
-%% 
-%% Copyright 2019-2021 Elsevier Ltd
-%% 
-%% This file is part of the 'CAS Bundle'.
-%% --------------------------------------
-%% 
-%% It may be distributed under the conditions of the LaTeX Project Publicportrays the validation process applied to event
-%% License, either version 1.2 of this license or (at your option) any
-%% later version.  The latest version of this license is in
-%%    http://www.latex-project.org/lppl.txt
-%% and version 1.2 or later is part of all distributions of LaTeX
-%% version 1999/12/01 or later.
-%% 
-%% The list of all files belonging to the 'CAS Bundle' is
-%% given in the file `manifest.txt'.
-%% 
-%% Template article for cas-dc documentclass for 
-%% double column output.
-
 \documentclass[a4paper,fleqn]{cas-dc}
 %\documentclass[a4paper,fleqn,longmktitle]{cas-dc}
-\input{cas-dc.cls}
+\def\input@path{/home/isaac/geomagnetic_local_effects_p1/cas-dc.cls}
 
 % If the frontmatter runs over more than one page
 % use the longmktitle option.
@@ -39,14 +20,12 @@
 \tsc{WGM}
 \tsc{QE}
 %%%
-
 % Uncomment and use as if needed
 %\newtheorem{theorem}{Theorem}
 %\newtheorem{lemma}[theorem]{Lemma}
 %\newdefinition{rmk}{Remark}
 %\newproof{pf}{Proof}
 %\newproof{pot}{Proof of Theorem \ref{thm}}
-
 \begin{document}
 \let\WriteBookmarks\relax
 \def\floatpagepagefraction{1}
@@ -143,18 +122,21 @@
 \cortext[cor1]{Corresponding author}
 %\cortext[cor2]{Principal corresponding author}
 % Here goes the abstract
+
+% Research highlights
+\begin{highlights} 
+	
+	\item Investigation into space weather dynamics in central Mexico.
+	
+	\item Analysis of disparities between local and planetary geomagnetic responses during geomagnetic storms. 
+	\item In-depth study of ionospheric currents as drivers of local geomagnetic fluctuations. 
+\end{highlights}
+
 \begin{abstract}
 This study investigates regional space weather phenomena in central Mexico by isolating local geomagnetic responses from their planetary counterparts. Through the analysis of 20 intense geomagnetic storms, we discerned the ionospheric contributions within regional geomagnetic data recorded in central Mexico. Our findings underscore the predominant role of ionospheric disturbances in driving local geomagnetic responses. Notably, the \emph{Disturbed Polar Current Number 2} and the \emph{Disturbed Dynamo Current} emerged as particularly influential factors in regional geomagnetic activity. Importantly, our research establishes that regional geomagnetic responses can be accurately approximated by considering the combined impacts of planetary geomagnetic responses and the magnetic perturbations prompted by the aforementioned ionospheric currents.
 \end{abstract}
 
-% Research highlights
-\begin{highlights} 
 
-\item Investigation into space weather dynamics in central Mexico.
-
-\item Analysis of disparities between local and planetary geomagnetic responses during geomagnetic storms. 
-\item In-depth study of ionospheric currents as drivers of local geomagnetic fluctuations. 
-\end{highlights}
 
 % Keywords
 % Each keyword is seperated by \sep
@@ -171,7 +153,7 @@ This study investigates regional space weather phenomena in central Mexico by is
 %Space Weather is defined as the conditions presented in the sun, interplanetary environment, solar wind,  magnetosphere, thermosphere and ionosphere \citep{space_weather, tesis_yo}. Solar magnetic activity has a strong influence on the behavior of the Earth’s magnetic field (EMF). When a disturbance is produced on the solar atmosphere, it propagates through the interplanetary space. This is the case of the Coronal Mass Ejections (CME) and the Stream Interaction Regions (SIR). 
 
 
-Geomagnetic storms (GS) are significant phenomena within space weather, as they can adversely impact various systems such as communications, navigation, and energy supply \citep{schrijver2015}. GSs are closely tied to solar activity and primarily involve a temporary weakening of the Earth's magnetic field (EMF), among other effects \citep{gonzalestgm}. These storms arise when solar wind material penetrates the EMF through magnetic reconnection between the interplanetary magnetic field (IMF) and the EMF \citep{l_basic_spaceplasmaphysic, l_russell}.
+Geomagnetic storms (GS) are significant phenomena within space weather, as they can adversely impact various systems such as communications, navigation, and energy supply \citep{schrijver2015}. GSs are closely tied to solar activity and primarily involve a temporary weakening of the Earth's magnetic field (EMF), among other effects \citep{gonzalestgm}. These storms arise when solar wind material penetrates the EMF through magnetic reconnection between the interplanetary magnetic field (IMF) and the EMF \cite{l_basic_spaceplasmaphysic, l_russell}.
 
 Geomagnetic storms are typically identified using geomagnetic indices, which quantify their magnitude. Various geomagnetic indices exist, each designed to capture specific aspects of geomagnetic disturbances. In the context of middle and low latitudes, the most commonly used indices are the planetary K index (${\rm K_P}$) and the disturbance storm time index (${\rm Dst}$). These indices are especially effective in regions where the geomagnetic perturbation can be observed on the Earth's magnetic field's horizontal component (H). The \href{https://www.gfz-potsdam.de/en/section/geomagnetism/data-products-services/geomagnetic-kp-index}{${\rm K_P}$ index} quantifies the maximum variation in H observed at mid-latitudes over three-hour intervals. Similarly, the \href{https://wdc.kugi.kyoto-u.ac.jp/dstae/index.html}{${\rm Dst}$ index} represents an hourly average of perturbations in H as measured near the Earth's magnetic equator. These planetary indices, namely ${\rm K_P}$ and ${\rm Dst}$, have regional counterparts that rely on regional data instead of planetary averages \citep{mayaud1980}.
 
@@ -458,7 +440,7 @@ All authors have seen and approved the final version of the manuscript.
 \bibliographystyle{cas-model2-names}
 
 % Loading bibliography database
-\bibliography{ref}
+\bibliography{ref.bib}
 
 % Biography
 \bio{}
